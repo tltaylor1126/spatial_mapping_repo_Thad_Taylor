@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+shapely
+ipyleaflet
+ipywidgets
+geojsonio
+localtileserver
+openpyxl

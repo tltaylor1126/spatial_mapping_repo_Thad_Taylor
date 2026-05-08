@@ -1,0 +1,6 @@
+first_name,last_name,age,email,completed_survey,math_score,science_score,signup_date
+Alice,Smith,20,alice@example.com,Yes,85,88,2025-01-10
+Bob,Jones,,bob.example.com,No,90,,not a date
+Charlie,Brown,22,charlie@example.com,N/A,78,82,2025/02/15
+,Wilson,twenty-three,david@example.com,Yes,92,95,2025-03-01
+Evelyn,Garcia,21,evelyn@example.com,Yes,97,91,2025-03-14

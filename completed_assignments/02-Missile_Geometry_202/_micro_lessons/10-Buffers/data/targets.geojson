@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehran",
+        "path": "Alpha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.388,
+          35.695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honolulu",
+        "path": "Bravo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.855,
+          21.305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid",
+        "path": "Charlie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703,
+          40.417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riyadh",
+        "path": "Delta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.675,
+          24.688
+        ]
+      }
+    }
+  ]
+}
