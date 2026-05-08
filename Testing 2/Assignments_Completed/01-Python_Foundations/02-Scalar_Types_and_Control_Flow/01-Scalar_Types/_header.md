@@ -1,2 +1,0 @@
-# 01-Scalar Types
-
