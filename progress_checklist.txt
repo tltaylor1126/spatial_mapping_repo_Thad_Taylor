@@ -714,6 +714,11 @@ completed_assignments/
 │   │   │   └── README.md
 │   │   └── README.md
 │   ├── data
+│   │   ├── lod
+│   │   │   ├── railroads_coarse.geojson
+│   │   │   ├── railroads_extra_fine.geojson
+│   │   │   ├── railroads_fine.geojson
+│   │   │   └── railroads_medium.geojson
 │   │   └── ne_10m_railroads.geojson
 │   └── README.md
 ├── 04-Worldle
@@ -1313,8 +1318,8 @@ completed_assignments/
 │   ├── README.md
 │   ├── SUBMISSION_NOTES.md
 │   └── worldle.ipynb
-├── hello.py
-└── README.md
+├── README.md
+└── requirements.txt
 
 ============================================================
   SUMMARY
