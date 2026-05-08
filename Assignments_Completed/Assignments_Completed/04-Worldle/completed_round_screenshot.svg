@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img" aria-labelledby="title desc">
+  <title id="title">Completed Worldle round sample</title>
+  <desc id="desc">A sample completed Worldle interface with a country map panel, guess controls, and solved guess history.</desc>
+  <rect width="980" height="620" fill="#f7fbfc"/>
+  <rect x="34" y="28" width="912" height="564" rx="8" fill="#ffffff" stroke="#d7e3e8"/>
+  <text x="64" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#17324d">Worldle</text>
+  <text x="64" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#4b6578">Seed 205 - solved in four guesses</text>
+  <rect x="64" y="132" width="590" height="340" rx="6" fill="#d8edf3" stroke="#c4d8de"/>
+  <path d="M92 230 C160 185 240 210 286 174 C338 134 430 148 480 205 C540 270 515 360 440 400 C368 438 278 422 216 382 C152 340 78 305 92 230 Z" fill="#2a9d8f" fill-opacity="0.7" stroke="#17324d" stroke-width="3"/>
+  <path d="M80 412 C176 388 228 430 324 408 C454 378 510 430 634 396" fill="none" stroke="#8bb8c2" stroke-width="2"/>
+  <path d="M96 178 C178 164 236 126 314 150 C408 178 500 120 626 154" fill="none" stroke="#8bb8c2" stroke-width="2"/>
+  <text x="284" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" fill="#17324d" opacity="0.18">?</text>
+  <rect x="680" y="132" width="230" height="340" rx="6" fill="#f9fcfd" stroke="#d7e3e8"/>
+  <text x="704" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">Guess History</text>
+  <line x1="704" y1="188" x2="886" y2="188" stroke="#dfe7ea"/>
+  <text x="708" y="226" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#17324d">United States</text>
+  <text x="850" y="226" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#e76f51">&#8600;</text>
+  <text x="708" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#17324d">Mexico</text>
+  <text x="850" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f4a261">&#8595;</text>
+  <text x="708" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#17324d">Costa Rica</text>
+  <text x="850" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#7cb342">&#8600;</text>
+  <text x="708" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#17324d">El Salvador</text>
+  <text x="850" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" fill="#2a9d8f">&#10003;</text>
+  <rect x="64" y="498" width="400" height="48" rx="6" fill="#ffffff" stroke="#cad9df"/>
+  <text x="84" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#6b7f8f">Type a country</text>
+  <rect x="478" y="498" width="92" height="48" rx="6" fill="#2a9d8f"/>
+  <text x="502" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Guess</text>
+  <rect x="584" y="498" width="112" height="48" rx="6" fill="#f4a261"/>
+  <text x="612" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#17324d">Give up</text>
+  <text x="704" y="526" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#2a9d8f">Solved: El Salvador</text>
+</svg>
